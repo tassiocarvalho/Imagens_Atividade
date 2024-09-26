@@ -1,3 +1,9 @@
+![image](https://github.com/user-attachments/assets/6fad36ef-1c62-4bbc-923b-b44e9995783b)
+
+![image](https://github.com/user-attachments/assets/b13fbb73-96dc-49c7-8397-7b45c3152c3b)
+
+
+
 
 ### Processamento e Análise de Imagens para Estimativa de Uso de Energia
 
